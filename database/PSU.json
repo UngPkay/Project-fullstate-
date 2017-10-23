@@ -1,0 +1,74 @@
+{
+  "map": [
+    {
+      "id": 1,
+      "comment": "Not Bad",
+      "photo": "http://icons.iconarchive.com/icons/yellowicon/game-stars/256/Mario-icon.png",
+      "title": "recommendation",
+      "location": {
+        "Lat": 13.736717,
+        "lng": 100.523186
+      }
+    },
+    {
+      "comment": "Not cool",
+      "photo": "https://blogassets.evernote.com/tech/files/2015/05/android_robot_logo3.png",
+      "title": "sd",
+      "location[lat]": "18.36366",
+      "location[lng]": "190.52223",
+      "id": 2
+    },
+    {
+      "comment": "Not cool",
+      "photo": "https://blogassets.evernote.com/tech/files/2015/05/android_robot_logo3.png",
+      "title": "sd",
+      "location[lat]": "18.36366",
+      "location[lng]": "190.52223",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "Pkaypreak",
+      "password": "012345",
+      "email": "uranuspreak@yahoo.com",
+      "phnone": "0903030850"
+    },
+    {
+      "username": "sd",
+      "password": "adf",
+      "email": "adf",
+      "phone": "adf",
+      "id": 2
+    },
+    {
+      "username": "5830213047",
+      "password": "5",
+      "email": "5",
+      "phone": "5",
+      "id": 6
+    },
+    {
+      "username": "56",
+      "password": "5",
+      "email": "5",
+      "phone": "5",
+      "id": 7
+    },
+    {
+      "username": "6",
+      "password": "6",
+      "email": "6",
+      "phone": "6",
+      "id": 8
+    },
+    {
+      "username": "78",
+      "password": "78",
+      "email": "78",
+      "phone": "78",
+      "id": 9
+    }
+  ]
+}
